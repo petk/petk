@@ -42,3 +42,5 @@ I'm always happy to chat and collaborate with other developers.
 
 Thank you for visiting my profile!
 I hope you find something here that inspires you.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=petk)](https://github.com/anuraghazra/github-readme-stats)
